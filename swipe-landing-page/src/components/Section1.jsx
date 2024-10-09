@@ -1,4 +1,4 @@
-import { Button } from "./button";
+import { Button } from "./Button.jsx";
 
 export const Section1 = () => {
   return (

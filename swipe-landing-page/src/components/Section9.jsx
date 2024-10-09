@@ -1,4 +1,4 @@
-import { Button } from "./button";
+import { Button } from "./Button.jsx";
 import FAQs from "./FAQs";
 
 export const Section9 = () => {

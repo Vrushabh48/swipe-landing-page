@@ -1,4 +1,3 @@
-import Testimonials from "./Testimonials";
 
 export const Section3 = () => {
   return (
